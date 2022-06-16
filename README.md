@@ -1,3 +1,3 @@
 # MinecraftBot-Mohist
 
-hai
+**Config.json**:
