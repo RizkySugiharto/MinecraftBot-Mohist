@@ -4,4 +4,4 @@
 
   _1. "ip"_
   
-    `IP Address of your minecraft server`
+    IP Address of your minecraft server
