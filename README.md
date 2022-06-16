@@ -1,5 +1,5 @@
 # MinecraftBot-Mohist
 
 **Config.json**:
-  1. "ip"
-    * IP Address of your minecraft server
+  __1. "ip"__
+    `IP Address of your minecraft server`
