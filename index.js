@@ -3,9 +3,9 @@ let mpf = require('minecraft-protocol-forge');
 let config = require('./config.json')
 
 let bot = mineflayer.createBot({
-  host: config['ip'],
-  username: config['username'],
-  port: config['port'],
+  host: config["ip"],
+  username: config["username"],
+  port: config["port"],
   version: false
 });
 
