@@ -1,1 +1,1 @@
-worker: node index.js rake jobs:work
+worker: node index.js
