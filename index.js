@@ -36,11 +36,6 @@ bot.on('time', () => {
 
 mpf.autoVersionForge(bot._client);
 
-bot.on('chat', (username, message) => {
-  if (username === bot.username) return
-  bot.chat(message)
-});
-
 bot.on('death', () => {
   bot.emit('respawn')
 });
