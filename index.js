@@ -1,5 +1,4 @@
 const mineflayer = require('mineflayer');
-const vec3 = require('vec3');
 const mpf = require('minecraft-protocol-forge');
 const config = require('./config.json');
 
